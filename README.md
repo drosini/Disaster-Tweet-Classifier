@@ -2,7 +2,7 @@
  Bidirectional RNN for Disaster Tweet Classification
 
 
-- Download re-trained GloVe Twitter embeddings from --> https://nlp.stanford.edu/projects/glove/
+- Download pre-trained GloVe Twitter embeddings from --> https://nlp.stanford.edu/projects/glove/
 
 ## Structure
 - Data evaluation
